@@ -1,0 +1,7 @@
+untuk mengubah ukuran font caption bawah bar grafik
+
+f.outcnvbasefontsize,f.basefontsize,15
+
+axis samping
+
+basefont,"Verdana,sans"),outCanfontSize:la(f.outcnvbasefontsize,f.basefontsize,14)
